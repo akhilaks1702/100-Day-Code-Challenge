@@ -24,6 +24,7 @@ public class ArraySum {
 		
 		System.out.println("Enter the number of elements to be present in the array: ");
 		int num = sc.nextInt();
+		
 		// Initializing the array
 		int[] arr = new int[num];
 		System.out.println();
@@ -35,7 +36,7 @@ public class ArraySum {
 		}
 		System.out.println();
 		
-		// Displaying the array elements
+		// Displaying the array elements using for-each loop
 		System.out.println("Displaying the array");
 		for(int i:arr) {
 			System.out.print(i+" ");
@@ -49,7 +50,6 @@ public class ArraySum {
 		}
 		System.out.println();
 		System.out.println("The sum of the elements of the array is "+sum);
-		
 		
 		sc.close();
 		
