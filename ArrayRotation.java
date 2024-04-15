@@ -117,6 +117,7 @@ public class ArrayRotation {
 
 // Enter the number of steps to rotate the array to the left: 
 // 1
+// Here it rotates the right rotated array by 1 step
 
 // Displaying the array rotated to the left:
 // [5, 1, 2, 3, 4]
