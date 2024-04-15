@@ -91,3 +91,32 @@ public class ArrayRotation {
 	}
 	
 }
+
+// Output
+
+// Program to rotate elements of an array to the right by a given number of steps.
+
+// Enter the number of elements to be present in the array: 
+// 5
+
+// Enter the elements of the array: 
+// 1
+// 2
+// 3
+// 4
+// 5
+
+// Displaying the array
+// [1, 2, 3, 4, 5]
+
+// Enter the number of steps to rotate the array to right: 
+// 2
+
+// Displaying the array rotated to the right:
+// [4, 5, 1, 2, 3]
+
+// Enter the number of steps to rotate the array to the left: 
+// 1
+
+// Displaying the array rotated to the left:
+// [5, 1, 2, 3, 4]
